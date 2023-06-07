@@ -17,7 +17,7 @@ local MinimizeButton = Instance.new("TextButton")
 local UICorner_7 = Instance.new("UICorner")
 local MinimizeButtonS = Instance.new("TextButton")
 
-ScreenGui.Name = "ExplanHUB Shutdown"
+ScreenGui.Name = "Shutdown"
 ScreenGui.Parent = game.CoreGui
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 ScreenGui.ResetOnSpawn = false
@@ -41,7 +41,7 @@ Brand.BorderColor3 = Color3.fromRGB(30, 30, 30)
 Brand.BackgroundTransparency = 1.000
 Brand.Size = UDim2.new(0, 285, 0, 29)
 Brand.Font = Enum.Font.Cartoon
-Brand.Text = "ExplanHUB Shutdown"
+Brand.Text = "Shutdown"
 Brand.TextColor3 = Color3.fromRGB(255, 255, 255)
 Brand.TextScaled = true
 Brand.TextSize = 14.000
